@@ -2,9 +2,9 @@
 
 # Halil İbrahim Öztürk
 
-### Biotechnology Student · Product Builder · AI & Software Developer
+### Computer Science Student · Product Builder · AI & Software Developer
 
-Building **Inmerse** — a thoughtful ecosystem of digital tools for life sciences, learning, wellbeing, and everyday organization.
+Building **Inmerse** — a thoughtful ecosystem of digital tools for learning, wellbeing, personal organization, and intelligent workflows.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Inmerson-181717?logo=github&logoColor=white)](https://github.com/Inmerson)
 
@@ -12,12 +12,13 @@ Building **Inmerse** — a thoughtful ecosystem of digital tools for life scienc
 
 ## About me
 
-I study biotechnology in Poland and build software at the intersection of **living systems**, **learning**, and **responsible technology**. My work focuses on turning complex information into clear, useful, and carefully designed experiences.
+I study **Computer Science in Poland** and build software focused on clear architecture, responsible AI, and practical digital experiences. My work combines software engineering, product thinking, and careful system design.
 
-- Exploring bioinformatics, scientific software, and applied AI
-- Building full-stack web and mobile applications
+- Developing full-stack web and mobile applications
+- Exploring artificial intelligence, data systems, and software architecture
 - Designing privacy-aware tools for sensitive personal workflows
 - Documenting systems so they remain understandable and maintainable
+- Applying computer science across learning, health, science, and everyday organization
 
 ## Inmerse ecosystem
 
@@ -33,18 +34,19 @@ I study biotechnology in Poland and build software at the intersection of **livi
 | **Petmers** | Companion-animal care and records |
 | **Dreamers** | Dream journaling and reflection |
 
-The ecosystem is guided by shared standards for naming, privacy, accessibility, documentation, and responsible AI use.
+The ecosystem is guided by shared standards for naming, privacy, accessibility, documentation, security, and responsible AI use.
 
 ## Featured public project
 
 ### [Math Biotech](https://github.com/Inmerson/Math-Biotech-Project)
 
-A mobile-first mathematics and biotechnology learning project exploring analytical workflows, scientific education, and software-assisted study.
+A mobile-first software project combining mathematical tools, structured learning workflows, API development, and applied scientific computing.
 
 ## Current focus
 
-- Establishing a consistent architecture and documentation system across Inmerse projects
-- Developing biotechnology and scientific-learning tools
+- Strengthening my foundations in algorithms, data structures, databases, and software engineering
+- Establishing consistent architecture and documentation across Inmerse projects
+- Building reliable full-stack and mobile applications
 - Improving authorization, data ownership, import/export, and privacy boundaries
 - Using AI as an engineering assistant whose output is reviewed and verified
 
@@ -60,10 +62,10 @@ A mobile-first mathematics and biotechnology learning project exploring analytic
 
 - Prefer clear architecture over unnecessary complexity
 - Treat security, privacy, and accessibility as product requirements
-- Respect the complexity of living systems and human needs
-- Describe uncertainty carefully, especially in scientific and health contexts
 - Keep automated changes explicit, reviewable, and documented
-- Build tools that help people observe, understand, and organize responsibly
+- Validate AI-generated output before relying on it
+- Describe uncertainty carefully in scientific, health, and personal-data contexts
+- Build tools that help people understand, organize, and act responsibly
 
 ## GitHub activity
 
