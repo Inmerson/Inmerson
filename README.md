@@ -1,10 +1,10 @@
 <div align="center">
 
-# Halil Ibrahim Ozturk
+# Halil İbrahim Öztürk
 
-### Biotechnology Student · AI & Software Developer
+### Biotechnology Student · Product Builder · AI & Software Developer
 
-Building thoughtful digital tools at the intersection of **life sciences**, **learning**, and **intelligent systems**.
+Building **Inmerse** — a thoughtful ecosystem of digital tools for life sciences, learning, wellbeing, and everyday organization.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Inmerson-181717?logo=github&logoColor=white)](https://github.com/Inmerson)
 
@@ -12,30 +12,41 @@ Building thoughtful digital tools at the intersection of **life sciences**, **le
 
 ## About me
 
-I study biotechnology and develop software that helps people understand complex information, organize real-world workflows, and learn more effectively.
+I study biotechnology in Poland and build software at the intersection of **living systems**, **learning**, and **responsible technology**. My work focuses on turning complex information into clear, useful, and carefully designed experiences.
 
-- Exploring **bioinformatics, scientific software, and applied AI**
+- Exploring bioinformatics, scientific software, and applied AI
 - Building full-stack web and mobile applications
-- Interested in secure, accessible, and well-documented product development
-- Based in Poland
+- Designing privacy-aware tools for sensitive personal workflows
+- Documenting systems so they remain understandable and maintainable
 
-## Featured project
+## Inmerse ecosystem
+
+**Inmerse** is the shared identity for a family of focused applications. Most products are developed privately while their architecture, safety boundaries, and user experience mature.
+
+| Product | Focus |
+|---|---|
+| **Bird Vision** | Main control and coordination center |
+| **Fitmers** | Fitness, training, and progress planning |
+| **Biomers** | Personal health and medication organization |
+| **Floramers** | Plant care and botanical workflows |
+| **Noor** | Worship, reflection, and religious learning |
+| **Petmers** | Companion-animal care and records |
+| **Dreamers** | Dream journaling and reflection |
+
+The ecosystem is guided by shared standards for naming, privacy, accessibility, documentation, and responsible AI use.
+
+## Featured public project
 
 ### [Math Biotech](https://github.com/Inmerson/Math-Biotech-Project)
 
-A mobile-first mathematics and biotechnology learning application with an API for matrix operations, exam tracking, and analytical workflows.
+A mobile-first mathematics and biotechnology learning project exploring analytical workflows, scientific education, and software-assisted study.
 
-**Focus:** scientific learning · mobile development · REST APIs · applied AI
+## Current focus
 
-## Current ecosystem
-
-Most active products are developed privately while they mature. Current areas include:
-
-- Biotechnology and scientific learning tools
-- Health and academic applications
-- Business workflow and ERP systems
-- AI-assisted analysis and visualization
-- Mobile-first personal productivity products
+- Establishing a consistent architecture and documentation system across Inmerse projects
+- Developing biotechnology and scientific-learning tools
+- Improving authorization, data ownership, import/export, and privacy boundaries
+- Using AI as an engineering assistant whose output is reviewed and verified
 
 ## Technologies
 
@@ -49,9 +60,10 @@ Most active products are developed privately while they mature. Current areas in
 
 - Prefer clear architecture over unnecessary complexity
 - Treat security, privacy, and accessibility as product requirements
-- Document decisions so projects remain understandable
-- Use AI as an engineering assistant, not as a substitute for verification
-- Build tools that respect the complexity of living systems and human needs
+- Respect the complexity of living systems and human needs
+- Describe uncertainty carefully, especially in scientific and health contexts
+- Keep automated changes explicit, reviewable, and documented
+- Build tools that help people observe, understand, and organize responsibly
 
 ## GitHub activity
 
