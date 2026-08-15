@@ -2,23 +2,46 @@
 
 # Halil İbrahim Öztürk
 
-### Computer Science Student · Product Builder · AI & Software Developer
+### Biotechnology Student · Software Builder · AI-Assisted Learning Systems
 
-Building **Inmerse** — a thoughtful ecosystem of digital tools for learning, wellbeing, personal organization, and intelligent workflows.
+I build thoughtful software at the intersection of **science, education, personal tools, and responsible AI**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Inmerson-181717?logo=github&logoColor=white)](https://github.com/Inmerson)
+[![Inmersion CS](https://img.shields.io/badge/Organization-Inmersion--CS-0969da?logo=github&logoColor=white)](https://github.com/Inmersion-CS)
+[![Inmersion Biotech](https://img.shields.io/badge/Organization-Inmersion--Biotech-2da44e?logo=github&logoColor=white)](https://github.com/Inmersion-Biotech)
 
 </div>
 
+## Selected public work
+
+### [Math-CS](https://github.com/Inmerson/Math-CS)
+Interactive mathematics for computer science built as a computational-notebook-style learning workspace. It covers mathematical analysis, linear algebra, geometry, visualization, practice, quizzes, and CS-oriented connections.
+
+**Stack:** React · TypeScript · Vite · Vitest · Tailwind CSS · Framer Motion · KaTeX · Capacitor
+
+### [Math & Biotech Lab](https://github.com/Inmersion-Biotech/Math-Biotech-Project)
+A mathematics and biotechnology learning laboratory combining interactive lessons, deterministic calculations, biotechnology-oriented examples, 3D visualization, PWA/mobile support, and a REST API.
+
+**Stack:** React · TypeScript · Node.js · Express · Three.js · React Three Fiber · KaTeX · Capacitor
+
+### [Inmersion Computer Science](https://github.com/Inmersion-CS)
+An open collection of focused learning environments spanning computer architecture, calculus, Java, information systems, technical English, management, Japanese studies, and workplace safety.
+
+### [Inmersion Biotechnology](https://github.com/Inmersion-Biotech)
+A home for biotechnology-focused learning and application projects connecting scientific concepts with interactive software, visual models, and deliberate practice.
+
 ## About me
 
-I study **Computer Science in Poland** and build software focused on clear architecture, responsible AI, and practical digital experiences. My work combines software engineering, product thinking, and careful system design.
+I study in **Poland** and build software with an emphasis on clear architecture, scientific care, privacy, security, and maintainability. I am especially interested in systems that help people **learn, understand, organize, and make better-informed decisions**.
 
-- Developing full-stack web and mobile applications
-- Exploring artificial intelligence, data systems, and software architecture
-- Designing privacy-aware tools for sensitive personal workflows
-- Documenting systems so they remain understandable and maintainable
-- Applying computer science across learning, health, science, and everyday organization
+My work currently spans:
+
+- Full-stack web and mobile applications
+- AI-assisted learning and productivity systems
+- Scientific and educational software
+- Privacy-aware personal tools
+- Software architecture, authorization, and data ownership
+- Interactive visualization and structured learning experiences
 
 ## Inmerse ecosystem
 
@@ -36,20 +59,6 @@ I study **Computer Science in Poland** and build software focused on clear archi
 
 The ecosystem is guided by shared standards for naming, privacy, accessibility, documentation, security, and responsible AI use.
 
-## Featured public project
-
-### [Math Biotech](https://github.com/Inmerson/Math-Biotech-Project)
-
-A mobile-first software project combining mathematical tools, structured learning workflows, API development, and applied scientific computing.
-
-## Current focus
-
-- Strengthening my foundations in algorithms, data structures, databases, and software engineering
-- Establishing consistent architecture and documentation across Inmerse projects
-- Building reliable full-stack and mobile applications
-- Improving authorization, data ownership, import/export, and privacy boundaries
-- Using AI as an engineering assistant whose output is reviewed and verified
-
 ## Technologies
 
 <div align="center">
@@ -61,11 +70,12 @@ A mobile-first software project combining mathematical tools, structured learnin
 ## Engineering principles
 
 - Prefer clear architecture over unnecessary complexity
-- Treat security, privacy, and accessibility as product requirements
+- Treat security, privacy, accessibility, and data ownership as product requirements
 - Keep automated changes explicit, reviewable, and documented
 - Validate AI-generated output before relying on it
-- Describe uncertainty carefully in scientific, health, and personal-data contexts
-- Build tools that help people understand, organize, and act responsibly
+- Distinguish clearly between implemented capabilities, experiments, and roadmap ideas
+- Use careful language around scientific, health, and personal-data contexts
+- Build systems that remain understandable and maintainable over time
 
 ## GitHub activity
 
