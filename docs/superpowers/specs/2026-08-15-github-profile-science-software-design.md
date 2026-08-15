@@ -1,124 +1,108 @@
-# GitHub Profile — Science × Software Design
+# GitHub Profile — Organizations-First Minimal Design
 
 ## Goal
 
-Transform the `Inmerson` profile README into a polished, memorable portfolio that communicates a clear identity at the intersection of biotechnology, software engineering, scientific learning, and responsible AI.
+Transform the `Inmerson` profile README into a minimal, polished profile that introduces Halil İbrahim Öztürk and makes the two main organizations — `Inmersion-CS` and `Inmersion-Biotech` — the center of the page.
 
 ## Visual direction
 
-The profile should feel like a modern scientific portfolio rather than a generic developer badge wall.
+The profile should feel calm, modern, scientific, and intentional.
 
 - Dark-theme friendly and readable in GitHub light mode.
-- Strong visual hierarchy with generous whitespace.
-- Blue/teal/green accents only where they add meaning.
-- No typing animation, trophy wall, visitor counter, or excessive badges.
-- Keep external image dependencies minimal; use Skill Icons and GitHub Readme Stats only where they provide clear value.
-- Prefer short, precise copy over long self-description.
+- Strong hierarchy with generous whitespace.
+- Minimal badges and no visual clutter.
+- No project showcase section.
+- No repository-specific feature cards.
+- No typing animation, trophy wall, visitor counter, or oversized statistics area.
+- Prefer concise copy over long self-description.
 
 ## Information architecture
 
-The README will follow this order:
+The README will contain only three primary areas:
 
-1. **Hero** — name, concise identity line, short mission statement, organization links.
-2. **Selected Work** — strongest public projects presented first, with clear scope and stacks.
-3. **Science × Software** — two-column conceptual focus showing the biotechnology/science side and the engineering/software side.
-4. **Organizations** — concise cards for `Inmersion-CS` and `Inmersion-Biotech` so organization-owned repositories remain discoverable from the personal profile.
-5. **Technology** — a compact single-row technology visual, avoiding badge clutter.
-6. **Inmerse ecosystem** — compact overview of the private product family without letting it dominate the public portfolio.
-7. **Engineering principles** — only four strong principles: scientific care, privacy/security, clear architecture, and responsible AI.
-8. **Activity** — one restrained GitHub statistics area at the bottom.
+1. **Hero** — name, concise interdisciplinary identity, one-sentence mission statement.
+2. **Organizations** — two prominent organization blocks for `Inmersion-CS` and `Inmersion-Biotech`, each with a short description and direct link.
+3. **About / Focus** — a brief paragraph explaining the biotechnology × software direction and the kind of systems being built.
+
+A small closing line may be used for visual balance, but no additional portfolio sections should compete with the organizations.
 
 ## Hero content
 
 The first viewport should immediately communicate:
 
 - `Halil İbrahim Öztürk`
-- `Biotechnology · Software Engineering · AI-Assisted Learning Systems`
-- A one-sentence statement about building software that helps people observe, understand, learn, and organize complex information responsibly.
-- Compact links to GitHub, Inmersion-CS, and Inmersion-Biotech.
+- `Biotechnology · Software · AI-Assisted Learning Systems`
+- A one-sentence statement about building careful digital systems for learning, science, and complex information.
+- Direct organization links.
 
-The hero must not overstate professional seniority or claim skills unsupported by the public work.
-
-## Selected work
-
-Prioritize projects that demonstrate depth and range:
-
-### Math-CS
-
-Position as an interactive mathematics workspace for computer science. Mention mathematical analysis, linear algebra/geometry, visualization, practice, quizzes, and the React/TypeScript stack.
-
-### Math & Biotech Lab
-
-Position as the strongest explicit bridge between biotechnology and software. Mention biotechnology-oriented mathematical learning, deterministic calculations, 3D visualization, PWA/mobile support, and REST API architecture.
-
-The selected-work section should emphasize what each project demonstrates rather than listing every feature.
-
-## Science × Software section
-
-Use a compact two-column table:
-
-**Science / Biotechnology**
-- Biotechnology learning
-- Scientific visualization
-- Mathematical modeling and quantitative reasoning
-- Careful scientific communication
-
-**Software / Systems**
-- Full-stack web and mobile applications
-- React/TypeScript architecture
-- Privacy, authorization, and data ownership
-- AI-assisted workflows with human verification
-
-This section should visually explain the profile's interdisciplinary identity in a few seconds.
+The hero must not overstate professional seniority or use unsupported status claims.
 
 ## Organizations
 
-Display `Inmersion-CS` and `Inmersion-Biotech` as two concise portfolio hubs, each with one sentence and a link. The organization section exists specifically to counteract the reduced visibility of repositories that are no longer owned directly by the personal account.
+### Inmersion-CS
 
-## Inmerse ecosystem
+Present `Inmersion-CS` as the computer-science learning and software organization. Its description should mention focused learning environments across computing, mathematics, information systems, and related subjects without listing individual repositories.
 
-Keep the product family visible but secondary. Present it as one compact line or concise table rather than a long product catalog.
+Primary link:
 
-Use the established names:
-- Bird Vision
-- Fitmers
-- Biomers
-- Floramers
-- Noor
-- Petmers
-- Dreamers
+`https://github.com/Inmersion-CS`
 
-State clearly that most products are private/in development.
+### Inmersion-Biotech
 
-## Engineering principles
+Present `Inmersion-Biotech` as the biotechnology-focused software and learning organization. Its description should emphasize the connection between scientific concepts, structured learning, visualization, and software without featuring any specific repository.
 
-Keep exactly four concise principles:
+Primary link:
 
-1. Scientific care and honest scope.
-2. Privacy, security, and data ownership by design.
-3. Clear architecture and maintainable systems.
-4. AI output is reviewed, verified, and never treated as unquestioned authority.
+`https://github.com/Inmersion-Biotech`
 
-## Activity area
+## Explicit exclusions
 
-Use at most two compact statistics cards, centered and transparent-background compatible. They must remain below the portfolio content so statistics do not become the identity of the profile.
+The personal profile README must not feature or link as highlighted projects:
+
+- `Math-CS`
+- `Math-Biotech-Project`
+- `Math & Biotech Lab`
+
+Do not include a `Selected Work` section.
+
+Do not include individual project cards from either organization.
+
+## About / Focus
+
+Use one concise paragraph stating that Halil studies in Poland and works at the intersection of biotechnology, software, learning systems, privacy-aware design, and responsible AI. Keep this secondary to the organization presentation.
+
+## Optional visual elements
+
+Allowed:
+
+- Up to two organization badges/buttons.
+- One restrained technology icon row only if it does not distract from the organizations.
+- One short closing line.
+
+Not allowed:
+
+- GitHub statistics cards as a primary section.
+- Long technology inventories.
+- Inmerse product catalog.
+- Engineering-principles list.
+- Project feature lists.
 
 ## Copy style
 
-- English copy, concise and professional.
-- Avoid inflated claims such as “expert,” “researcher,” or “engineer” when used as formal status labels.
-- Prefer concrete descriptions of built systems.
-- Avoid generic filler such as “passionate developer.”
-- Preserve scientific humility and responsible language.
+- English copy.
+- Concise and professional.
+- Scientific humility and careful language.
+- Avoid labels such as `expert`, `researcher`, `senior engineer`, or `AI expert`.
+- Avoid generic filler such as `passionate developer`.
 
 ## Success criteria
 
-A visitor scanning the page for 10–15 seconds should understand:
+A visitor scanning the page for 10 seconds should understand:
 
 1. Who Halil İbrahim Öztürk is.
-2. That the profile combines biotechnology/science with software engineering.
-3. Which two public projects are most important.
-4. That substantial work is organized under `Inmersion-CS` and `Inmersion-Biotech`.
-5. Which technologies and engineering values define the work.
+2. That his public work is intentionally organized under two GitHub organizations.
+3. What `Inmersion-CS` represents.
+4. What `Inmersion-Biotech` represents.
+5. That the profile connects biotechnology, software, and learning systems without highlighting individual repositories.
 
-The final README should look intentional, visually calm, and distinctly more polished than a standard student GitHub profile.
+The final README should look cleaner and more mature by emphasizing organizational structure rather than individual projects.
