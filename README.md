@@ -1,6 +1,10 @@
 <div align="center">
 
-# Halil İbrahim Öztürk
+# INMERSON
+
+`observe · understand · build`
+
+### Halil İbrahim Öztürk
 
 **Computer Science student building open-source learning systems across software and biotechnology.**
 
@@ -24,7 +28,7 @@ I build focused digital environments for learning, scientific exploration, and A
 
 | Project | What it does | Stack | Links |
 | --- | --- | --- | --- |
-| **Calculus** | Open-source interactive web environment for learning and exploring calculus. The current public release establishes the production-quality learning shell while subject engines are developed incrementally. | React · TypeScript · Vite · Vitest | [Repo](https://github.com/Inmersion-CS/Calculus) · [Live](https://inmersion-cs.github.io/Calculus/) |
+| **Calculus** | Open-source interactive web environment for learning and exploring calculus. The current public release provides the application foundation while calculus-specific learning tools are added incrementally. | React · TypeScript · Vite · Vitest | [Repo](https://github.com/Inmersion-CS/Calculus) · [Live](https://inmersion-cs.github.io/Calculus/) |
 | **Java** | Open-source learning environment for Java foundations and active practice, designed to grow toward browser coding, debugging, and exercise workflows. | React · TypeScript · Vite · Vitest | [Repo](https://github.com/Inmersion-CS/Java) · [Live](https://inmersion-cs.github.io/Java/) |
 | **Architecture** | Interactive learning laboratory for computer architecture and systems, with a roadmap toward observable CPU, memory, register, and binary-state simulations. | React · TypeScript · Vite · Vitest | [Repo](https://github.com/Inmersion-CS/Architecture) · [Live](https://inmersion-cs.github.io/Architecture/) |
 | **Math & Biotech Lab** | Mathematics and biotechnology learning laboratory combining interactive lessons, deterministic calculations, 3D visualization, AI-assisted explanations, PWA support, and mobile packaging. | React · TypeScript · Three.js · Capacitor | [Repo](https://github.com/Inmersion-Biotech/Math-Biotech-Project) · [Live](https://inmersion-biotech.github.io/Math-Biotech-Project/) |
@@ -34,13 +38,13 @@ I build focused digital environments for learning, scientific exploration, and A
 - Building accessible, testable foundations for interactive learning environments.
 - Developing AI-assisted study software while keeping deterministic learning and calculation workflows explicit.
 - Connecting scientific concepts with visualization, web/PWA delivery, and mobile-ready interfaces.
-- Growing the **Inmersion-CS** and **Inmersion-Biotech** ecosystems without turning the personal profile into a project catalog.
+- Keeping **Inmersion-CS** and **Inmersion-Biotech** focused while surfacing only representative public work here.
 
 ## Tech Stack
 
 `TypeScript` · `React` · `Vite` · `Vitest` · `Three.js` · `Capacitor` · `GitHub Actions` · `AI tooling`
 
-## Contact & Links
+## Explore
 
 [GitHub](https://github.com/Inmerson) · [Inmersion-CS](https://github.com/Inmersion-CS) · [Inmersion-Biotech](https://github.com/Inmersion-Biotech)
 
