@@ -1,19 +1,14 @@
 <div align="center">
 
-<img src="./assets/inmerson-header.svg" alt="Inmerson — explore, understand, build" width="100%" />
+<img src="./assets/inmerson-cosmic-engraving.svg" alt="INMERSON — monochrome cosmic engraving profile banner featuring a spiral galaxy" width="100%" />
 
-# INMERSON
-
-`explore · understand · build`
-
-### Halil İbrahim Öztürk
+## Halil İbrahim Öztürk
 
 **Computer Science student building software, learning systems, and scientific tools.**
 
 I work on structured digital environments for computer science, biotechnology, mathematics, and AI-assisted learning.
 
-[![Inmersion-CS](https://img.shields.io/badge/Inmersion--CS-Computer%20Science-0ea5e9?style=for-the-badge)](https://github.com/Inmersion-CS)
-[![Inmersion-Biotech](https://img.shields.io/badge/Inmersion--Biotech-Biotechnology-8b5cf6?style=for-the-badge)](https://github.com/Inmersion-Biotech)
+**[Inmersion-CS](https://github.com/Inmersion-CS)** · **[Inmersion-Biotech](https://github.com/Inmersion-Biotech)**
 
 [Repositories](https://github.com/Inmerson?tab=repositories) · [Stars](https://github.com/Inmerson?tab=stars) · [Projects](https://github.com/Inmerson?tab=projects)
 
