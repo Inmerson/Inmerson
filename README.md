@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/inmerson-cosmic-engraving.svg" alt="INMERSON — monochrome cosmic engraving profile banner featuring a spiral galaxy" width="100%" />
+<img src="./assets/inmerson-cosmic-engraving-clean.svg" alt="INMERSON — monochrome cosmic engraving profile banner featuring a spiral galaxy" width="100%" />
 
 ## Halil İbrahim Öztürk
 
