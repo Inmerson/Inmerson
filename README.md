@@ -38,7 +38,7 @@ My work focuses on clarity, structure, careful observation, and practical tools 
 | Project | Description | Stack | Links |
 | --- | --- | --- | --- |
 | **[Math-CS](https://github.com/Inmersion-CS/Math-CS)** | Interactive mathematics workspace for core computer science mathematics topics. | React · TypeScript · Vite | [Repo](https://github.com/Inmersion-CS/Math-CS) |
-| **[Math-Biotech](https://github.com/Inmersion-Biotech/Math-Biotech)** | Mathematics and biotechnology learning lab with calculations, visualization, and PWA support. | React · TypeScript · Three.js · Capacitor | [Repo](https://github.com/Inmersion-Biotech/Math-Biotech) · [Live](https://inmersion-biotech.github.io/Math-Biotech/) |
+| **[Math-Biotech](https://github.com/Inmersion-Biotech/Math-Biotech)** | Mathematics and biotechnology learning lab with calculations, visualization, and PWA support. | React · TypeScript · Three.js · Capacitor | [Repo](https://github.com/Inmersion-Biotech/Math-Biotech) · [Live](https://inmersion-biotech.github.io/Math-Biotech/site/) |
 | **[Chat On Steroids](https://github.com/Inmerson/chat-on-steroids)** | Local desktop bridge for ChatGPT workflows over MCP. Public fork with active work and clear upstream attribution. | TypeScript · Electron | [Repo](https://github.com/Inmerson/chat-on-steroids) |
 
 ## Current Trajectory
