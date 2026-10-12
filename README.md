@@ -37,7 +37,7 @@ My work focuses on clarity, structure, careful observation, and practical tools 
 
 | Project | Description | Stack | Links |
 | --- | --- | --- | --- |
-| **[Math-CS](https://github.com/Inmerson/Math-CS)** | Interactive mathematics workspace for core computer science mathematics topics. | React · TypeScript · Vite | [Repo](https://github.com/Inmerson/Math-CS) |
+| **[Math-CS](https://github.com/Inmersion-CS/Math-CS)** | Interactive mathematics workspace for core computer science mathematics topics. | React · TypeScript · Vite | [Repo](https://github.com/Inmersion-CS/Math-CS) |
 | **[Math & Biotech Lab](https://github.com/Inmersion-Biotech/Math-Biotech-Project)** | Mathematics and biotechnology learning lab with calculations, visualization, and PWA support. | React · TypeScript · Three.js · Capacitor | [Repo](https://github.com/Inmersion-Biotech/Math-Biotech-Project) · [Live](https://inmersion-biotech.github.io/Math-Biotech-Project/) |
 | **[InfoSystems](https://github.com/Inmersion-CS/InfoSystems)** | Learning project for requirements, process modeling, data modeling, and systems thinking. | React · TypeScript · Vite | [Repo](https://github.com/Inmersion-CS/InfoSystems) · [Live](https://inmersion-cs.github.io/InfoSystems/) |
 | **[Safety](https://github.com/Inmersion-CS/Safety)** | Interactive learning project for occupational safety, ergonomics, and risk awareness. | React · TypeScript · Vite | [Repo](https://github.com/Inmersion-CS/Safety) · [Live](https://inmersion-cs.github.io/Safety/) |
