@@ -12,6 +12,12 @@ I work on structured digital environments for computer science, biotechnology, m
 
 [Repositories](https://github.com/Inmerson?tab=repositories) · [Stars](https://github.com/Inmerson?tab=stars) · [Projects](https://github.com/Inmerson?tab=projects)
 
+<a href="https://www.ascii-magic.com/ascii/moonlit-sea">
+  <img src="./assets/moonlit-sea.svg" width="88%" alt="Moonlit Sea: an animated ASCII night sky with a full moon and shimmering ocean, inspired by ASCII Magic" />
+</a>
+
+<sub>Moonlit Sea · animated ASCII artwork based on <a href="https://www.ascii-magic.com/ascii/moonlit-sea">ASCII Magic</a> (MIT)</sub>
+
 </div>
 
 ---
