@@ -576,8 +576,8 @@
       </circle>
 
       <text x="20" y="26" fill="#fb923c" font-family="monospace" font-size="10" font-weight="700" letter-spacing="2.2">03 // MY VISION</text>
-      <text x="20" y="52" fill="#f1f5f9" font-family="'Segoe UI', system-ui, sans-serif" font-size="17" font-weight="700">Inmerse Ecosystem</text>
-      <text x="20" y="74" fill="#94a3b8" font-family="'Segoe UI', system-ui, sans-serif" font-size="12">Connected tools, one vision.</text>
+      <text x="20" y="52" fill="#f1f5f9" font-family="'Segoe UI', system-ui, sans-serif" font-size="17" font-weight="700">Inmerse Vision</text>
+      <text x="20" y="74" fill="#94a3b8" font-family="'Segoe UI', system-ui, sans-serif" font-size="12">One vision, many tools</text>
       <!-- Decorative animated progress motif -->
       <g transform="translate(20 84)">
         <rect x="0" y="0" width="166" height="4" rx="2" fill="#1e293b"/>
