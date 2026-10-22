@@ -1,7 +1,7 @@
 <div align="center">
 
-<a href="./assets/inmerson-nocturne-universe.svg">
-  <img src="./assets/inmerson-nocturne-universe.svg" alt="INMERSON — animated spiral galaxy, drifting starfields and luminous nebula" width="100%" />
+<a href="./assets/inmerson-event-horizon.svg">
+  <img src="./assets/inmerson-event-horizon.svg" alt="INMERSON Event Horizon — animated black hole, accretion disk, cosmic starfield and science-themed panels" width="100%" />
 </a>
 
 ## Halil İbrahim Öztürk
